@@ -16,7 +16,7 @@
 #visit-our-school {
     text-align: center;
     background-color: #eee;
-    padding: 80px;
+    padding: 60px;
     margin-bottom: 2em;
 }
 
@@ -108,4 +108,14 @@ main hr {
     border: none;
     background-color: #eee;
     height: 1px;
+}
+
+
+/* my css: */
+#auto_gen_id_unq_41{
+    margin: 50px;
+}
+
+#left-column{
+    font-size: 2em;
 }

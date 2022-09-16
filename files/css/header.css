@@ -148,3 +148,13 @@ header a {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+.sticky {
+    position: fixed;
+    top: 2.5em;
+    width: 100%
+}
+
+/* .sticky + .content {
+    padding-top: 43px;
+} */
